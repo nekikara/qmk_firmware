@@ -310,4 +310,3 @@ what things are (and likely aren't) too risky.
 - EEPROM has around a 100000 write cycle.  You shouldn't rewrite the
   firmware repeatedly and continually; that'll burn the EEPROM
   eventually.
-					
